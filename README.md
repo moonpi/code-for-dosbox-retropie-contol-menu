@@ -1,5 +1,5 @@
 # code-for-dosbox-retropie-contol-menu
-Code for the DOSBOX Retropie Controls menu for dosbox-retropie-launch-control
+Code for the DOSBOX Retropie Controls menu for https://github.com/moonpi/dosbox-retropie-launch-control
 
 I was able to compile control2.c into a MS DOS com file using bcc on a Raspberry Pi.
 To install bcc on a Raspberry Pi or a Debian distribution of Linux: 
